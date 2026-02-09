@@ -26,9 +26,12 @@ Matrix Factorization for Collaborative Filtering | [View](./Sample%20Assignments
 
 ## Collaborative Projects
 
-| Project | Link | Demo |
-|---------|------|------|
-EECS 3311 Group Project | [View Repo](https://github.com/SenpaiJody/EECS3311_V2) | [Watch Demo](https://www.youtube.com/watch?v=5ra4f9AgJxw) |
+| Project | Description | Link | Demo |
+|---------|------|------|------|
+EECS 3311 Software Design - Group Project | "NutSci" Nutrition and Meal Logger Desktop Application |  [View Repo](https://github.com/SenpaiJody/EECS3311_V2) | [Watch Demo](https://www.youtube.com/watch?v=5ra4f9AgJxw) |
+
+
+
 
 ## Database Projects
 
