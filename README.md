@@ -1,13 +1,14 @@
-PROFESSIONAL SUMMARY
-▪B.A. Computer Science program (York University, Ontario)
-▪Interested in data science and machine learning, with a focus on applying advanced techniques to solve real-world problems such as signal processing, image analysis, and natural language processing (NLP).
-▪I enjoy working with large datasets and relational structures, exploring insights through databases and efficient data management. 
-▪Familiar Python-based frameworks such as numpy, scipy, pandas, scikit-learn, TensorFlow, and PyTorch for modeling and computation, as well as NLP-specific tools like Stanford CoreNLP and stanza.
-My goal is to leverage these skills to develop robust, scalable, and interpretable models that bridge the gap between theory and industry applications.
-▪ Completed Mathematics coursework in Calculus, Discrete Mathematics, Logic, Linear Algebra, Statistics and Probability.
-▪ Hands-on programming experience in Java, Python, C, SQL, Prolog, R, and LINUX/UNIX environments.
-▪ B.A. in English Literature with a second specialization in Hispanic Studies.
-▪ Previous work experience in both Spanish and French speaking environments.
+## PROFESSIONAL SUMMARY
+
+- 🎓 **B.A. Computer Science** program (York University, Ontario)  
+- 🤖 Interested in **data science and machine learning**, focusing on applying advanced techniques to solve real-world problems such as **signal processing, image analysis, and natural language processing (NLP)**  
+- 📊 Enjoy working with **large datasets and relational structures**, exploring insights through databases and efficient data management  
+- 🛠️ Familiar with **Python-based frameworks** such as `numpy`, `scipy`, `pandas`, `scikit-learn`, `TensorFlow`, and `PyTorch` for modeling and computation, as well as **NLP tools** like `Stanford CoreNLP` and `stanza`  
+- 🚀 Goal: Leverage these skills to develop **robust, scalable, and interpretable models** that bridge the gap between theory and industry applications  
+- 📐 Completed **Mathematics coursework** in Calculus, Discrete Mathematics, Logic, Linear Algebra, Statistics, and Probability  
+- 💻 Hands-on programming experience in **Java, Python, C, SQL, Prolog, R**, and **LINUX/UNIX environments**  
+- 📚 **B.A. in English Literature** with a second specialization in **Hispanic Studies**  
+- 🌍 Previous work experience in **both Spanish and French speaking environments**
 
 
 
