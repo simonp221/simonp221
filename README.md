@@ -15,7 +15,7 @@
 
 | Notebook | Link |
 |---------|------|
-Gradient Descent | [View](./Machine-Learning-Samples/Sample-Assignments/1/Gradient-Descent.ipynb) |
+Gradient Descent | [View](.../Machine-Learning-Samples/Sample-Assignments/1/Gradient-Descent.ipynb) |
 Linear Discriminant Analysis | [View](../Machine-Learning-Samples/Sample-Assignments/2/Linear-Discriminant-Analysis.ipynb) |
 Ridge Regression and LASSO | [View](../Machine-Learning-Samples/Sample-Assignments/2/Ridge-Regression-and-LASSO.ipynb) |
 MCE Logistic Regression | [View](../Machine-Learning-Samples/Sample-Assignments/2/MCE-Logistic-Regression.ipynb) |
