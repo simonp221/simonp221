@@ -15,14 +15,14 @@
 
 | Notebook | Link |
 |---------|------|
-Gradient Descent | [View](.../Machine-Learning-Samples/Sample-Assignments/1/Gradient-Descent.ipynb) |
-Linear Discriminant Analysis | [View](../Machine-Learning-Samples/Sample-Assignments/2/Linear-Discriminant-Analysis.ipynb) |
-Ridge Regression and LASSO | [View](../Machine-Learning-Samples/Sample-Assignments/2/Ridge-Regression-and-LASSO.ipynb) |
-MCE Logistic Regression | [View](../Machine-Learning-Samples/Sample-Assignments/2/MCE-Logistic-Regression.ipynb) |
-Support Vector Machine | [View](../Machine-Learning-Samples/Sample-Assignments/2/Support-Vector-Machine.ipynb) |
-CNN for image classification | [View](../Machine-Learning-Samples/Sample-Assignments/3/Convolutional-Neural-Networks-CNN-for-image-classification.ipynb) |
-Deep Neural Networks for nonlinear feature extraction | [View](../Machine-Learning-Samples/Sample-Assignments/3/Deep-Neural-Networks-for-nonlinear-feature-extraction.ipynb) |
-Matrix Factorization for Collaborative Filtering | [View](../Machine-Learning-Samples/Sample-Assignments/3/Matrix-Factorization-for-Collaborative-Filtering.ipynb) |
+Gradient Descent | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/1/Gradient-Descent.ipynb) |
+Linear Discriminant Analysis | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/2/Linear-Discriminant-Analysis.ipynb) |
+Ridge Regression and LASSO | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/2/Ridge-Regression-and-LASSO.ipynb) |
+MCE Logistic Regression | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/2/MCE-Logistic-Regression.ipynb) |
+Support Vector Machine | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/2/Support-Vector-Machine.ipynb) |
+CNN for image classification | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/3/Convolutional-Neural-Networks-CNN-for-image-classification.ipynb) |
+Deep Neural Networks for nonlinear feature extraction | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/3/Deep-Neural-Networks-for-nonlinear-feature-extraction.ipynb) |
+Matrix Factorization for Collaborative Filtering | [View](https://github.com/simonp221/Machine-Learning-Samples/blob/main/Sample-Assignments/3/Matrix-Factorization-for-Collaborative-Filtering.ipynb) |
 
 
 ## Collaborative Projects
