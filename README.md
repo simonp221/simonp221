@@ -1,3 +1,15 @@
+PROFESSIONAL SUMMARY
+B.A. Computer Science program (York University, Ontario)
+▪
+
+▪ Completed Mathematics coursework in Calculus, Discrete Mathematics, Logic, Linear
+Algebra, Statistics and Probability.
+▪ Hands-on programming experience in Java, Python, C, SQL, Prolog, MATLAB, Power BI
+and LINUX/UNIX environments.
+▪ B.A. in English Literature with a second specialization in Hispanic Studies.
+▪ Previous work experience in both Spanish and French speaking environments.
+
+
 ## Machine Learning Study Material 📚
 
 | File | Link |
