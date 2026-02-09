@@ -11,9 +11,7 @@
 - 🌍 Previous work experience in **both Spanish and French speaking environments**
 
 
-
-
-## Sample Assignments 
+## Academic Machine Learning Assignments and Reports
 
 | Notebook | Link |
 |---------|------|
@@ -26,9 +24,14 @@ CNN for image classification | [View](./Sample%20Assignments/3/Convolutional%20N
 Deep Neural Networks for nonlinear feature extraction | [View](./Sample%20Assignments/3/Deep%20Neural%20Networks%20for%20nonlinear%20feature%20extraction.ipynb) |
 Matrix Factorization for Collaborative Filtering | [View](./Sample%20Assignments/3/Matrix%20Factorization%20for%20Collaborative%20Filtering.ipynb) |
 
-## Machine Learning Study Material 📚
+## Collaborative Projects
 
-| File | Link |
-|------|------|
-| Final Review Formulas | [View](./Machine%20Learning%20Study%20Material/Final%20Review%20Formulas.pdf) |
-| Final Review Questions | [View](./Machine%20Learning%20Study%20Material/Final%20Review%20Questions.pdf) |
+| Project | Link | Demo |
+|---------|------|------|
+EECS 3311 Group Project | [View Repo](https://github.com/SenpaiJody/EECS3311_V2) | [Watch Demo](https://www.youtube.com/watch?v=5ra4f9AgJxw) |
+
+## Database Projects
+
+| Project | Link |
+|---------|------|
+Database Sample 2nd Year Database Systems | [View](https://github.com/simonp221/Database-Sample-2nd-Year-Database-Systems) |
