@@ -15,14 +15,14 @@
 
 | Notebook | Link |
 |---------|------|
-Gradient Descent | [View](./Sample%20Assignments/1/Gradient%20Descent.ipynb) |
-Linear Discriminant Analysis | [View](./Sample%20Assignments/2/Linear_Discriminant_Analysis.ipynb) |
-Ridge Regression and LASSO | [View](./Sample%20Assignments/2/Ridge%20Regression%20and%20LASSO.ipynb) |
-MCE Logistic Regression | [View](./Sample%20Assignments/2/MCE_Logistic_Regression.ipynb) |
-Support Vector Machine | [View](./Sample%20Assignments/2/Support_Vector_Machine.ipynb) |
-CNN for image classification | [View](./Sample%20Assignments/3/Convolutional%20Neural%20Networks%20(CNN)%20for%20image%20classification.ipynb) |
-Deep Neural Networks for nonlinear feature extraction | [View](./Sample%20Assignments/3/Deep%20Neural%20Networks%20for%20nonlinear%20feature%20extraction.ipynb) |
-Matrix Factorization for Collaborative Filtering | [View](./Sample%20Assignments/3/Matrix%20Factorization%20for%20Collaborative%20Filtering.ipynb) |
+Gradient Descent | [View](./Machine-Learning-Samples/1/Gradient%20Descent.ipynb) |
+Linear Discriminant Analysis | [View](./Machine-Learning-Samples/2/Linear_Discriminant_Analysis.ipynb) |
+Ridge Regression and LASSO | [View](./Machine-Learning-Samples/2/Ridge%20Regression%20and%20LASSO.ipynb) |
+MCE Logistic Regression | [View](./Machine-Learning-Samples/2/MCE_Logistic_Regression.ipynb) |
+Support Vector Machine | [View](./Machine-Learning-Samples/2/Support_Vector_Machine.ipynb) |
+CNN for image classification | [View](./Machine-Learning-Samples/3/Convolutional%20Neural%20Networks%20(CNN)%20for%20image%20classification.ipynb) |
+Deep Neural Networks for nonlinear feature extraction | [View](./Machine-Learning-Samples/3/Deep%20Neural%20Networks%20for%20nonlinear%20feature%20extraction.ipynb) |
+Matrix Factorization for Collaborative Filtering | [View](./Machine-Learning-Samples/3/Matrix%20Factorization%20for%20Collaborative%20Filtering.ipynb) |
 
 ## Collaborative Projects
 
